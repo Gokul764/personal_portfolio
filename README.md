@@ -1,4 +1,4 @@
-# Gokul's Portfolio
+# Personal Portfolio
 
 Welcome to my portfolio website! This project showcases my skills, projects, and passion for **Artificial Intelligence** and **Web Development**. Built with **Next.js**, it features modern web technologies, animations, and a responsive design.
 
